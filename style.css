@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(103, 16, 184);
     font-size: 15px;
     line-height: 1.5;
     padding: 0;
@@ -14,7 +14,7 @@ body {
     width: 520px;
     height: auto;
     margin: 100px auto;
-    background-color: #eee;
+    background-color: rgb(180, 230, 150);
     border-radius: 25px;
 }
 
@@ -38,13 +38,12 @@ body {
     font-weight: bolder;
     margin-top: 0;
     font-size: 34px;
-    color: #514e52;
+    color: rgb(29, 28, 28);
 }
 
 .title {
     font-size: 20px;
     text-align: left;
-    font-weight: normal;
     line-height: 0.5;
     letter-spacing: 0.5px;
     word-spacing: 2.7px;
@@ -66,7 +65,7 @@ input[type=text] {
 
 input[type=text]:focus {
     background-color: #ffff;
-    border: 2px solid rgb(180, 230, 150);
+    border: 2px solid chocolate;
     outline: none;
 }
 
@@ -100,5 +99,6 @@ input[type=button]:hover {
     font-weight: normal;
     line-height: 1.5;
     word-spacing: 2.7px;
-    color: navy;
+    color: #1073d0;
+    text-align: center;
 }
